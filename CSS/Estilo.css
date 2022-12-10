@@ -2,9 +2,9 @@
 /* Reseña de Epic Mickey                    */
 /* Hojas de estilo para autores             */
 /* Autor: Miguel Ángel Ávila Rosas          */
-/* Version: 1.0                             */
+/* Version: 3.0                             */
 /* Creado el: 21 de octubre de 2022         */
-/* Actualizado el: 8 de diciembre de 2022   */
+/* Actualizado el: 10 de diciembre de 2022  */
 /********************************************/
 
 /* ESTILO GENERAL */
@@ -141,7 +141,7 @@
                               padding: 3%;
                               top: auto;
                               right: auto;
-                              left: auto;
+                              left: 2%;
                               bottom: auto;
                              }
 
@@ -424,13 +424,9 @@
 /*Mover video*/
       @media only screen and (width<=1320px) {
             #trailer {
-                  width: 65%;
-                  height: 20%;
-                  position: relative;
-                  padding: 3%;
-                  bottom: 5%;
-                  left: 20%;
-                 }
+                      bottom: 5%;
+                      left: 20%;
+                     }
       }
 
 /*Tablet*/
