@@ -94,20 +94,11 @@
             top: 1.5%;
             }
 
-      #Graficos {left: 10%;}
+      #Graficos {left: 20%;}
       
-      #Historia {left: 30%;}
+      #Historia {left: 45%;}
 
-      #Galeria {left: 50%;}
-
-      #seleccion {
-                  color: white;
-                  position: absolute;
-                  font-size:larger;
-                  width: 20vh;
-                  left: 70%;
-                  top: 3%;
-            }
+      #Galeria {left: 70%;}
 
 /*Sección hero*/
       #hero {
@@ -450,23 +441,16 @@
                   }
 
             #Graficos {
-                  width: 13vh;
+                  width: 18vh;
                   }
       
       #Galeria {
-                  width: 13vh;
+                  width: 18vh;
                   }
       
       #Historia {
-                  width: 13vh;
+                  width: 18vh;
                   }
-      
-      #seleccion {
-                  font-size:medium;
-                  width: 20vh;
-                  top: 1.5%;
-                  left: 72%;
-                 }
 
       /*Sección hero*/
       #hero {height: 35vh;}
@@ -518,6 +502,12 @@
                   margin-top: 2vh;
                   margin-left: 12.5%;
                   margin-bottom: 4vh;
+                  }
+
+            #spatter-imagen {
+                  margin-top: 4vh;
+                  width: 25%;
+                  margin-bottom: 8vh;
                   }
 
             /*Zonas del juego*/
@@ -590,25 +580,15 @@
                   }
 
                   #Graficos { 
-                        left: 32%;
-                        width: 8.5vh;
+                        width: 13vh;
                         }
                   
                   #Galeria {
-                        left: 52%;
-                        width: 8.5vh;
+                        width: 13vh;
                         }
                   
                   #Historia {
-                        left: 12%;
-                        width: 8.5vh;
-                        }
-                  
-                  #seleccion {
-                        font-size:small;
-                        width: 15vh;
-                        top: 1.5%;
-                        left: 72%;
+                        width: 13vh;
                         }
 
             /*Sección Hero*/                        
@@ -671,6 +651,7 @@
 
                   #spatter-imagen {
                   margin-top: 4vh;
+                  width: 80%;
                   margin-bottom: 4.5vh;
                   }
                   
